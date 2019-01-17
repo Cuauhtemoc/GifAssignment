@@ -1,0 +1,19 @@
+button, #add-gif{
+    color: white;
+    background-color: teal;
+    border: white 5px solid;
+    margin: 1% 0
+}
+button{
+    padding: 5px;
+}
+#gif-area{
+    display: flex;
+    flex-wrap: wrap;
+}
+img{
+    padding: 5px;
+}
+p{
+    padding-right: 5px;
+}
